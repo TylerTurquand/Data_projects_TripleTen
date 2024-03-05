@@ -1,0 +1,5 @@
+#Saving Superstore
+
+##Overview
+
+The project entails a comprehensive analysis of the superstore's operational performance across three key dimensions. In Part 1, the focus is on identifying profit and loss centers by analyzing various pairs of dimensions such as subcategory + region or shipping mode + product ID. Visualizations are utilized to justify conclusions and determine products and product subcategories that should be discontinued or emphasized. Part 2 delves into assessing the viability of advertising by identifying optimal state-month combinations for maximum return on ad spend. Finally, Part 3 involves analyzing return rates of products and customers to determine potential anomalies and their impact on profitability. Visualizations are employed to provide insights into the relationship between average profit and return rates, aiding in strategic decision-making for the superstore.
